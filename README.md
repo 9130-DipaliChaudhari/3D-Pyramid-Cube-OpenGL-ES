@@ -14,12 +14,17 @@ An Android application demonstrating real-time 3D rendering using OpenGL ES 3.2 
 
 ## Features
 
-- 3D Pyramid rendering
-- 3D Cube rendering
-- Real-time OpenGL ES rendering
-- Vertex and Fragment Shaders
-- 3D transformations
-- Android touch/input handling
+Real-time 3D Pyramid rendering
+Real-time 3D Cube rendering
+OpenGL ES 3.2 based graphics rendering
+GLSL Vertex and Fragment Shaders
+Vertex and color buffer management
+3D transformation using rotation and perspective projection
+Android landscape orientation
+Full-screen immersive rendering
+Touch and gesture event handling
+GPU-based rendering
+Java and native C++ integration
 
 ## Project Structure
 
